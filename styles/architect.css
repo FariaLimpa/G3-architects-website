@@ -1,0 +1,10 @@
+* {
+    font-family: "Work Sans";
+}
+
+.nav-logo {
+    color: #131313;
+    text-align: center;
+    font-size: 45px;
+    font-weight: 700;
+}
